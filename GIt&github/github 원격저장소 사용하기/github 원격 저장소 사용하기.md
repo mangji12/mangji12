@@ -31,33 +31,33 @@ Git 무엇일까?
     
     1) New Repository
     
-    ![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled.png)
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled.png)
     
 
 2) 저장소 설정하기
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%201.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%201.png)
 
 3) URL 확인
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%202.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%202.png)
 
 - url에서 패턴을 확인할 수 있다.
 
 4) 로컬 저장소에 원격 저장소 정보 설정하기
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%203.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%203.png)
 
 - `git remote add origin https://github.com/kdt-live/test.git`
 - origin은 원격 저장소의 이름을 지정하는 부분이다.
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%204.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%204.png)
 
 git bash에 붙여넣기.
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%205.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%205.png)
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%206.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%206.png)
 
 — 한번 하면 할 필요 없음 — (계속 저장돼 있으면)
 
@@ -67,7 +67,7 @@ git bash에 붙여넣기.
 
 `git remote -v`
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%207.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%207.png)
 
 이름의 글로벌 룰 : origin → 원격저장소 기본 이름 많이 쓰는 것 ⇒ like master
 
@@ -76,7 +76,7 @@ git bash에 붙여넣기.
 - 원격 저장소로 로컬 저장소 변경 사항(커밋)을 올림(push)
     - 원격 저장소는 로컬 폴더의 파일/폴더가 아닌 저장소의 버전(커밋)을 관리하는 것
     
-    ![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%208.png)
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%208.png)
     
     이 후 로그인 창이 뜨면 확인.
     
@@ -85,7 +85,7 @@ git bash에 붙여넣기.
     - push할 때는 인증 정보가 필수적
     - 윈도우는 아래의 화면에서 인증을 하여야 한다.
         
-        ![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%209.png)
+        ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%208.png)
         
     - mac 유저
         
@@ -93,7 +93,7 @@ git bash에 붙여넣기.
         
         **push 확인**
         
-        ![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%2010.png)
+        ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%2010.png)
         
     
 
@@ -116,9 +116,9 @@ clone을 하여 가져왔을 때 zip 파일과 다른 것은 git이 생기면서
 
 **작업의 매커니즘**
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%2011.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%2011.png)
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%2012.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%2012.png)
 
 해당 작업에서 `push` **는 권한이 없기 때문에 동작이 안된다.**
 
@@ -134,7 +134,7 @@ git clone을 했는데 git init을 할 필요가 없다.
 
 명령어 정리
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%2013.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%2013.png)
 
 # **git 특정버전으로 소스 받기, git pull version**
 
@@ -179,9 +179,9 @@ github 에서 편집행위를 하면 결국엔 commit - 버전이 바뀌게 된�
 
 PR(pull request) 업무 흐름을 제어하도록 해야 한다.
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%2014.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%2014.png)
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%2015.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%2015.png)
 
 해결 방법
 
@@ -189,7 +189,7 @@ PR(pull request) 업무 흐름을 제어하도록 해야 한다.
 2. 로컬에서 두 커밋을 병합(추가 커밋 발생)
 3. 다시 깃허브로 push
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%2016.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%2016.png)
 
 **gitigonre**
 
@@ -207,7 +207,7 @@ commit history : 커밋 역사
 
 **.gitignore 옵션**
 
-![Untitled](github%20%E1%84%8B%E1%85%AF%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%20%E1%84%8C%E1%85%A5%E1%84%8C%E1%85%A1%E1%86%BC%E1%84%89%E1%85%A9%20%E1%84%89%E1%85%A1%E1%84%8B%E1%85%AD%E1%86%BC%E1%84%92%E1%85%A1%E1%84%80%E1%85%B5%203b9c15be28ea45ab84ba8a80cbd384c3/Untitled%2017.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0%20/Untitled%2017.png)
 
 자동으로 목록 만들어 주는 사이트
 
