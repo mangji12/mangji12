@@ -212,7 +212,7 @@
     6. 결과 -> *merge conflict발생*
     
        > git status 명령어로 충돌 파일을 확인할 수 있음.
-    		```bash
+    	```bash
     		(master|MERGING) $ git status
        On branch master
        You have unmerged paths.
@@ -227,16 +227,16 @@
        Unmerged paths:
          (use "git add <file>..." to mark resolution)
                both modified:   README.md
-    		```
+    	```
     
     7. 충돌 확인 및 해결
-      ```bash
+    	```bash
        <<<<<<< HEAD
        # 마스터에서 작업함...
        =======
        # 테스트에서 작성
-       >>>>>>> feature/test
-      ```
+      	feature/test
+	```
     
     8. merge commit 진행
     
