@@ -5,13 +5,7 @@
 ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled.png)
 
 - 독립적인 작업 흐름을 만들고 관리할 수 있다.
-<<<<<<< HEAD
-  
-    ![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled%201.png)
-=======
-    
-    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%201.png)
->>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
+	![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%201.png)
     
 
 **브랜치 주요 명령어**
@@ -43,18 +37,10 @@
 1) merge - fast forward
 
 - 기존 master 브랜치에 변경사항이 없어 단순히 앞으로 이동
-<<<<<<< HEAD
-  
-    ![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled%202.png)
-=======
-    
-    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%202.png)
->>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
-    
+	![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%202.png)
 
 2) merge -merge commit
-
-![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%203.png)
+	![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%203.png)
 
 **브랜치 병합 시나리오**
 
@@ -65,20 +51,13 @@
 
 - fast-foward는 feature 브랜치가 생성된 이후 master 브랜치에 변경상황이 없는 상황
 
-<<<<<<< HEAD
   &nbsp;
-=======
 
 1. feature/home branch 생성 및 이동
->>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
 
-  1. feature/home branch 생성 및 이동
-
-````bash
 ```bash
 		git branch -b feature/home
 ```
-````
 
 2. 작업 완료 후 commit
 
@@ -122,7 +101,7 @@
     
        ```bash
     		git branch -b feature/about branch
-```
+       ```
 
     2. 작업 완료 후 commit
     
@@ -147,9 +126,7 @@
        (master) $ git add .
        (master) $ git commit -m 'Add master.txt'
        ```
-
-
-​    
+       
     5. master에 병합
     
        ```bash
@@ -175,11 +152,7 @@
        ```bash
     		git branch -d feature/about
        ```
-<<<<<<< HEAD
-    ```
-=======
->>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
-
+ 
 **상황 3. merge commit 충돌**
 
 [git Conflict(충돌)는 왜 일어날까? 과정 알아보기](https://chaeyoung2.tistory.com/61)
@@ -193,7 +166,7 @@
     
        ```bash
     		git checkout -b feature/test
-    ```
+       ```
     
     2. 작업 완료 후 commit
     
@@ -229,7 +202,7 @@
     5. master에 병합
     
        ```bash
-    		git merge feature/test
+    	git merge feature/test
        ```
        
     6. 결과 -> *merge conflict발생*
@@ -252,19 +225,9 @@
                both modified:   README.md
     	```
     
-    7. 충돌 확인 및 해결
-<<<<<<< HEAD
-      ```bash
-       <<<<<<< HEAD
-       # 마스터에서 작업함...
-       =======
-       # 테스트에서 작성
-       >>>>>>> feature/test
-      ```
-=======
+    7. 충돌 확인 및 해결...
+
     &nbsp;
-    ...
->>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
     8. merge commit 진행
     
@@ -290,10 +253,5 @@
     10. branch 삭제
     
         ```bash
-<<<<<<< HEAD
-    			git branch -d feature/test
-        ```
-=======
     	git branch -d feature/test
         ```
->>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
