@@ -1,4 +1,5 @@
-## Portfolio
+## Blog
+
 [노션](https://qwerty12.notion.site/Portfolio-Projects-79580d1660cb47e884e7661ecd77c3fa)
 
 # Study
