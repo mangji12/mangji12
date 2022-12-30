@@ -47,7 +47,7 @@
     
 2. 이메일을 통한 초대 수락
 
-    ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%202.png)
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%202.png)
     
 2. Clone 이후 작업에 맞춘 작업환경 설정을 마무리 한다.
    
