@@ -55,7 +55,7 @@
 
 - fast-foward는 feature 브랜치가 생성된 이후 master 브랜치에 변경상황이 없는 상황
 
-```bash
+
 1. feature/home branch 생성 및 이동
 
    ```bash
@@ -94,14 +94,12 @@
    ```bash
 		git branch -d feature/home
    ```
-```
 
 **상황 2. merge commit**
 
 - 서로 다른 이력(commit)을 병합 하는 과정에서 **다른 파일이 수정** 되어 있는 상황
     - git이 auto merging을 진행하고 **commit이 발생한다**
     
-    ```bash
     1. feature/about branch 생성 및 이동
     
        ```bash
@@ -158,8 +156,6 @@
        ```bash
     		git branch -d feature/about
        ```
-    ```
-    
 
 **상황 3. merge commit 충돌**
 
@@ -170,7 +166,6 @@
     - 해당 파일의 위치에 표준형식에 따라 표시 해준다.
     - 원하는 형태의 코드로 직접 수정을 하고 직접 commit을 발생 시켜야 한다.
     
-    ```bash
     1. feature/test branch 생성 및 이동
     
        ```bash
@@ -269,4 +264,3 @@
         ```bash
     			git branch -d feature/test
         ```
-    ```
