@@ -241,8 +241,8 @@
     8. merge commit 진행
     
        ```bash
-    	   git add .
-    	   git commit
+    	git add .
+    	git commit
        ```
     
        * vim 편집기 화면이 나타납니다.
@@ -262,5 +262,5 @@
     10. branch 삭제
     
         ```bash
-    			git branch -d feature/test
+    	git branch -d feature/test
         ```
