@@ -1,12 +1,17 @@
 # Branch
 
-![git의 작업 흐릅.png](Branch%208fcc4fbb19c243568116704b18d633ef/git%25EC%259D%2598_%25EC%259E%2591%25EC%2597%2585_%25ED%259D%2590%25EB%25A6%2585.png)
+![git의 작업 흐릅.png](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/git%25EC%259D%2598_%25EC%259E%2591%25EC%2597%2585_%25ED%259D%2590%25EB%25A6%2585.png)
 
-![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled.png)
 
 - 독립적인 작업 흐름을 만들고 관리할 수 있다.
+<<<<<<< HEAD
   
     ![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled%201.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%201.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 
 **브랜치 주요 명령어**
@@ -38,13 +43,18 @@
 1) merge - fast forward
 
 - 기존 master 브랜치에 변경사항이 없어 단순히 앞으로 이동
+<<<<<<< HEAD
   
     ![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled%202.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%202.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 
 2) merge -merge commit
 
-![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled%203.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%203.png)
 
 **브랜치 병합 시나리오**
 
@@ -55,7 +65,12 @@
 
 - fast-foward는 feature 브랜치가 생성된 이후 master 브랜치에 변경상황이 없는 상황
 
+<<<<<<< HEAD
   &nbsp;
+=======
+
+1. feature/home branch 생성 및 이동
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
 
   1. feature/home branch 생성 및 이동
 
@@ -97,14 +112,12 @@
    ```bash
 		git branch -d feature/home
    ```
-```
 
 **상황 2. merge commit**
 
 - 서로 다른 이력(commit)을 병합 하는 과정에서 **다른 파일이 수정** 되어 있는 상황
     - git이 auto merging을 진행하고 **commit이 발생한다**
     
-    ```bash
     1. feature/about branch 생성 및 이동
     
        ```bash
@@ -162,7 +175,10 @@
        ```bash
     		git branch -d feature/about
        ```
+<<<<<<< HEAD
     ```
+=======
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
 
 **상황 3. merge commit 충돌**
 
@@ -173,7 +189,6 @@
     - 해당 파일의 위치에 표준형식에 따라 표시 해준다.
     - 원하는 형태의 코드로 직접 수정을 하고 직접 commit을 발생 시켜야 한다.
     
-    ```bash
     1. feature/test branch 생성 및 이동
     
        ```bash
@@ -220,7 +235,7 @@
     6. 결과 -> *merge conflict발생*
     
        > git status 명령어로 충돌 파일을 확인할 수 있음.
-    		```bash
+    	```bash
     		(master|MERGING) $ git status
        On branch master
        You have unmerged paths.
@@ -235,9 +250,10 @@
        Unmerged paths:
          (use "git add <file>..." to mark resolution)
                both modified:   README.md
-    		```
+    	```
     
     7. 충돌 확인 및 해결
+<<<<<<< HEAD
       ```bash
        <<<<<<< HEAD
        # 마스터에서 작업함...
@@ -245,12 +261,16 @@
        # 테스트에서 작성
        >>>>>>> feature/test
       ```
+=======
+    &nbsp;
+    ...
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
     8. merge commit 진행
     
        ```bash
-    	   git add .
-    	   git commit
+    	git add .
+    	git commit
        ```
     
        * vim 편집기 화면이 나타납니다.
@@ -270,5 +290,10 @@
     10. branch 삭제
     
         ```bash
+<<<<<<< HEAD
     			git branch -d feature/test
         ```
+=======
+    	git branch -d feature/test
+        ```
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736

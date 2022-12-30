@@ -6,7 +6,7 @@
 
 **간단히 말해서 커맨드 입력 도구!**
 
-![Untitled](CLI(Command%20Line%20Interface)%206c9c3dc64f0c4c3e81b74bbbd391dea2/Untitled.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/CLI(Command%20Line%20Interface)/CLI(Command%20Line%20Interface)/Untitled.png)
 
 ## CLI 구성 요소
 

@@ -2,13 +2,19 @@
 
 - Git을 활용하여 협업하는 흐름으로 branch를 활용하는 전략을 의마한다.
 - 가장 대표적으로 활용되는 전략은 다음과 같다.
+<<<<<<< HEAD
   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 - https://www.notion.so/qwerty12/Git-Flow-2d5f38280e5541639e924e87618cb0dc#de85c0e0679e49e8816e256b15734489
 
 | branch | 주요 특징 | 예시 |
 | --- | --- | --- |
+<<<<<<< HEAD
 | master|||
 |(main) | 배포 가능한 상태의 코드 | LOL 클라이언트 라이브 버전(9.23.231.1231) |
 | develop|||
@@ -17,9 +23,13 @@
 | feature branches | - 기능별 개발 브랜치(topic branch)
 - 기능이 반영되거나 드랍되는 경우 브랜치 삭제 | 개발시 기능별
 예)챔피언, 몬스터 등 |
+=======
+| master(main) | 배포 가능한 상태의 코드 | LOL 클라이언트 라이브 버전(9.23.231.1231) |
+| develop(main) | - feature branch로 나뉘어지거나, 발생된 버그 수정 등 개발 진행 - 개발 이후 release branch로 분기 | 다음 패치를 위한 개발(9.24) |
+| feature branches | - 기능별 개발 브랜치(topic branch) - 기능이 반영되거나 드랍되는 경우 브랜치 삭제 | 개발시 기능별 예)챔피언, 몬스터 등 |
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
 | release branches | 개발 완료 이후 QA/Test 등을 통해 얻어진 다음 배포 전 minor bug fix 등 반영 | 9.24a,0.24b |
-| hotfixes | - 긴급하게 반영 해야하는 bug fix
-- release branch는 다음 버전을 위한 것이라면, hotfix branch는 현재 버전을 위한것 | 긴급 패치를 위한 작업 |
+| hotfixes | - 긴급하게 반영 해야하는 bug fix - release branch는 다음 버전을 위한 것이라면, hotfix branch는 현재 버전을 위한것 | 긴급 패치를 위한 작업 |
 
 **GitHub Flow 기본 원칙**
 
@@ -49,16 +59,30 @@
 ### 팀원 초대 및 저장소 Clone
 
 1. 팀원 초대 및 저장소 clone
+<<<<<<< HEAD
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%201.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%201.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 1. 이메일을 통한 초대 수락
+<<<<<<< HEAD
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%202.png)
     
 2. Clone 이후 작업에 맞춘 작업환경 설정을 마무리 한다.
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%203.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%202.png)
+    
+2. Clone 이후 작업에 맞춘 작업환경 설정을 마무리 한다.
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%203.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 
 ---
@@ -66,6 +90,7 @@
 ### 브랜치에서 작업 및 GitHub Push
 
 1. 브랜치에서 작업 및 GitHub Push
+<<<<<<< HEAD
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%204.png)
     
@@ -76,6 +101,18 @@
 3. 완성된 코드는 원격 저장소에 push를 한다.
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%206.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%204.png)
+    
+2. Commit으로 작업의 이력(history)을 남긴다.
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%205.png)
+    
+3. 완성된 코드는 원격 저장소에 push를 한다.
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%206.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 
 ---
@@ -83,12 +120,22 @@
 ### Pull Request 생성
 
 1. Github에 들어가서 Pull Request 버튼을 누른다.
+<<<<<<< HEAD
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%207.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%207.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 1. PR과 관련된 설정을 진행한 후 요청을 생성한다.
+<<<<<<< HEAD
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%208.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%208.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 
 ---
@@ -96,8 +143,13 @@
 ### Review 및 Merge
 
 1. 작성된 코드를 확인 후 병합
+<<<<<<< HEAD
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%209.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%209.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
     병합 확인
     
@@ -105,8 +157,13 @@
 **병합 완료 후 개발을 한다면?**
 
 1. 다음 작업 준비
+<<<<<<< HEAD
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%2010.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%2010.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 
 ---
@@ -114,12 +171,21 @@
 ### Fork & Pull Request Model
 
 1. Fork & Clone
+<<<<<<< HEAD
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%2011.png)
     
 2. Clone을 하고 각 작업에 맞춘 작업 환격 설정을 마무리 한다.
    
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%2012.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%2011.png)
+    
+2. Clone을 하고 각 작업에 맞춘 작업 환격 설정을 마무리 한다.
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%2012.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 
 **이후 작업(커밋,push,PR)은 Shared Repository Model과 동일함**
@@ -129,11 +195,16 @@
 ### while True : but, upstream
 
 - 다음 작업 준비
+<<<<<<< HEAD
   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%2013.png)
+=======
+    
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%2013.png)
+>>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
     
 
-![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%2014.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled%2014.png)
 
 **커밋 메세지를 잘못 넣었을 때**
 
