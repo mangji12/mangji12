@@ -2,16 +2,17 @@
 
 - Git을 활용하여 협업하는 흐름으로 branch를 활용하는 전략을 의마한다.
 - 가장 대표적으로 활용되는 전략은 다음과 같다.
-    
+  
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled.png)
     
+- https://www.notion.so/qwerty12/Git-Flow-2d5f38280e5541639e924e87618cb0dc#de85c0e0679e49e8816e256b15734489
 
 | branch | 주요 특징 | 예시 |
 | --- | --- | --- |
-| master
-(main) | 배포 가능한 상태의 코드 | LOL 클라이언트 라이브 버전(9.23.231.1231) |
-| develop
-(main) | - feature branch로 나뉘어지거나, 발생된 버그 수정 등 개발 진행
+| master|||
+|(main) | 배포 가능한 상태의 코드 | LOL 클라이언트 라이브 버전(9.23.231.1231) |
+| develop|||
+|(main) | - feature branch로 나뉘어지거나, 발생된 버그 수정 등 개발 진행||
 - 개발 이후 release branch로 분기 | 다음 패치를 위한 개발(9.24) |
 | feature branches | - 기능별 개발 브랜치(topic branch)
 - 기능이 반영되거나 드랍되는 경우 브랜치 삭제 | 개발시 기능별
@@ -48,16 +49,15 @@
 ### 팀원 초대 및 저장소 Clone
 
 1. 팀원 초대 및 저장소 clone
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%201.png)
     
-
 1. 이메일을 통한 초대 수락
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%202.png)
     
 2. Clone 이후 작업에 맞춘 작업환경 설정을 마무리 한다.
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%203.png)
     
 
@@ -66,15 +66,15 @@
 ### 브랜치에서 작업 및 GitHub Push
 
 1. 브랜치에서 작업 및 GitHub Push
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%204.png)
     
 2. Commit으로 작업의 이력(history)을 남긴다.
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%205.png)
     
 3. 완성된 코드는 원격 저장소에 push를 한다.
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%206.png)
     
 
@@ -83,12 +83,11 @@
 ### Pull Request 생성
 
 1. Github에 들어가서 Pull Request 버튼을 누른다.
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%207.png)
     
-
 1. PR과 관련된 설정을 진행한 후 요청을 생성한다.
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%208.png)
     
 
@@ -97,7 +96,7 @@
 ### Review 및 Merge
 
 1. 작성된 코드를 확인 후 병합
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%209.png)
     
     병합 확인
@@ -106,7 +105,7 @@
 **병합 완료 후 개발을 한다면?**
 
 1. 다음 작업 준비
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%2010.png)
     
 
@@ -115,11 +114,11 @@
 ### Fork & Pull Request Model
 
 1. Fork & Clone
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%2011.png)
     
 2. Clone을 하고 각 작업에 맞춘 작업 환격 설정을 마무리 한다.
-    
+   
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%2012.png)
     
 
@@ -130,7 +129,7 @@
 ### while True : but, upstream
 
 - 다음 작업 준비
-    
+  
     ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled%2013.png)
     
 

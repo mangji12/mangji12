@@ -5,7 +5,7 @@
 ![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled.png)
 
 - 독립적인 작업 흐름을 만들고 관리할 수 있다.
-    
+  
     ![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled%201.png)
     
 
@@ -38,7 +38,7 @@
 1) merge - fast forward
 
 - 기존 master 브랜치에 변경사항이 없어 단순히 앞으로 이동
-    
+  
     ![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled%202.png)
     
 
@@ -55,12 +55,15 @@
 
 - fast-foward는 feature 브랜치가 생성된 이후 master 브랜치에 변경상황이 없는 상황
 
-```bash
-1. feature/home branch 생성 및 이동
+  &nbsp;
 
-   ```bash
+  1. feature/home branch 생성 및 이동
+
+````bash
+```bash
 		git branch -b feature/home
-   ```
+```
+````
 
 2. 작업 완료 후 commit
 
@@ -106,8 +109,8 @@
     
        ```bash
     		git branch -b feature/about branch
-       ```
-    
+```
+
     2. 작업 완료 후 commit
     
        ```bash
@@ -131,8 +134,9 @@
        (master) $ git add .
        (master) $ git commit -m 'Add master.txt'
        ```
-       
-    
+
+
+​    
     5. master에 병합
     
        ```bash
@@ -159,7 +163,6 @@
     		git branch -d feature/about
        ```
     ```
-    
 
 **상황 3. merge commit 충돌**
 
@@ -175,8 +178,8 @@
     
        ```bash
     		git checkout -b feature/test
-       ```
-       
+    ```
+    
     2. 작업 완료 후 commit
     
        ```bash
@@ -235,13 +238,13 @@
     		```
     
     7. 충돌 확인 및 해결
-      ```
+      ```bash
        <<<<<<< HEAD
        # 마스터에서 작업함...
        =======
        # 테스트에서 작성
        >>>>>>> feature/test
-       ```
+      ```
     
     8. merge commit 진행
     
@@ -269,4 +272,3 @@
         ```bash
     			git branch -d feature/test
         ```
-    ```
