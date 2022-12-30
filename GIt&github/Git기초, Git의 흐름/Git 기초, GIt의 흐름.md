@@ -29,9 +29,9 @@ Git은 파일을 modified,staged,committed로 관리
 - staged : 수정한 파일을 곧 커밋할 것이라고 표시한 상태 (commit 명령어로 저장소)
 - committed : 커밋이 된 상태
 
-![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled.png)
 
-![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled%201.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%201.png)
 
 **기본 명령어**
 
@@ -53,7 +53,7 @@ git의 버전 관리
 
 현재 상태를 알고 싶을 때
 
-![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled%202.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%202.png)
 
 `git log`
 
@@ -73,28 +73,28 @@ git의 버전 관리
 
 1. `git init` - git 저장소 만들기
 
-![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled%203.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%203.png)
 
 (master) 구문이 추가된 것을 확인할 수 있다. 맥은 확인 안됨
 
 1. `touch`로 파일 만들어 보기
     
-    ![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled%204.png)
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%204.png)
     
 
 1. `git add` 로 변경된 파일 모으기
 
-![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled%205.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%205.png)
 
 1. `git status` 로 상태 확인
 
-![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled%206.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%206.png)
 
 No commits yet : 아직 커밋되지 않음.
 
 1. `git commit -m ‘버전 이름’`
 
-![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled%207.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%207.png)
 
 - 계정정보가 등록되지 않아 해당 문구가 노출된다.
 
@@ -104,7 +104,7 @@ No commits yet : 아직 커밋되지 않음.
     
     등록 후 커밋 화면 확인
     
-    ![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled%208.png)
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%208.png)
     
     커밋한 계정 확인
     
@@ -115,8 +115,8 @@ No commits yet : 아직 커밋되지 않음.
 
 **파일 관리 상태 라이프 사이클** 
 
-![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled%209.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%209.png)
 
-![Untitled](Git%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9,%20GIt%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%B3%E1%84%85%E1%85%B3%E1%86%B7%206d8362a9b825410cab658a4e4cbe72cb/Untitled%2010.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%2010.png)
 
 변경사항이 생겼고, 버전으로 기록하고 싶다면 `add`, `commit`. 커밋까지 된 정보를 볼때 `log`.
