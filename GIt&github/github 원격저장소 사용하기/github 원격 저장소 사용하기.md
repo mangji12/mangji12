@@ -217,6 +217,6 @@ commit history : 커밋 역사
 
 ---
 
-[Git을 이용한 버전 관리 【Git의 기본】 | 누구나 쉽게 이해할 수 있는 Git 입문~버전 관리를 완벽하게 이용해보자~ | Backlog](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
+[Git을 이용한 버전 관리 【Git의 기본】|누구나 쉽게 이해할 수 있는 Git 입문~버전 관리를 완벽하게 이용해보자~|Backlog](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
 
 [Git - 버전 관리란?](https://git-scm.com/book/ko/v2/%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0-%EB%B2%84%EC%A0%84-%EA%B4%80%EB%A6%AC%EB%9E%80%3F)
