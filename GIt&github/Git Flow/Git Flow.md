@@ -2,14 +2,9 @@
 
 - Git을 활용하여 협업하는 흐름으로 branch를 활용하는 전략을 의마한다.
 - 가장 대표적으로 활용되는 전략은 다음과 같다.
-<<<<<<< HEAD
   
-    ![Untitled](Git%20Flow%202d5f38280e5541639e924e87618cb0dc/Untitled.png)
-=======
-    
-    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled.png)
->>>>>>> 24acb9ec09a1d8d49f5276cc12b90a3d26192736
-    
+  ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%20Flow/Git%20Flow/Untitled.png)
+
 - https://www.notion.so/qwerty12/Git-Flow-2d5f38280e5541639e924e87618cb0dc#de85c0e0679e49e8816e256b15734489
 
 | branch | 주요 특징 | 예시 |
