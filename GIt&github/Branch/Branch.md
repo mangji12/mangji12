@@ -1,12 +1,12 @@
 # Branch
 
-![git의 작업 흐릅.png](Branch%208fcc4fbb19c243568116704b18d633ef/git%25EC%259D%2598_%25EC%259E%2591%25EC%2597%2585_%25ED%259D%2590%25EB%25A6%2585.png)
+![git의 작업 흐릅.png](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/git%25EC%259D%2598_%25EC%259E%2591%25EC%2597%2585_%25ED%259D%2590%25EB%25A6%2585.png)
 
-![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled.png)
 
 - 독립적인 작업 흐름을 만들고 관리할 수 있다.
     
-    ![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled%201.png)
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%201.png)
     
 
 **브랜치 주요 명령어**
@@ -39,12 +39,12 @@
 
 - 기존 master 브랜치에 변경사항이 없어 단순히 앞으로 이동
     
-    ![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled%202.png)
+    ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%202.png)
     
 
 2) merge -merge commit
 
-![Untitled](Branch%208fcc4fbb19c243568116704b18d633ef/Untitled%203.png)
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%203.png)
 
 **브랜치 병합 시나리오**
 
