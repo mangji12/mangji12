@@ -8,17 +8,11 @@
 
 | branch | 주요 특징 | 예시 |
 | --- | --- | --- |
-| master
-(main) | 배포 가능한 상태의 코드 | LOL 클라이언트 라이브 버전(9.23.231.1231) |
-| develop
-(main) | - feature branch로 나뉘어지거나, 발생된 버그 수정 등 개발 진행
-- 개발 이후 release branch로 분기 | 다음 패치를 위한 개발(9.24) |
-| feature branches | - 기능별 개발 브랜치(topic branch)
-- 기능이 반영되거나 드랍되는 경우 브랜치 삭제 | 개발시 기능별
-예)챔피언, 몬스터 등 |
+| master(main) | 배포 가능한 상태의 코드 | LOL 클라이언트 라이브 버전(9.23.231.1231) |
+| develop(main) | - feature branch로 나뉘어지거나, 발생된 버그 수정 등 개발 진행 - 개발 이후 release branch로 분기 | 다음 패치를 위한 개발(9.24) |
+| feature branches | - 기능별 개발 브랜치(topic branch) - 기능이 반영되거나 드랍되는 경우 브랜치 삭제 | 개발시 기능별 예)챔피언, 몬스터 등 |
 | release branches | 개발 완료 이후 QA/Test 등을 통해 얻어진 다음 배포 전 minor bug fix 등 반영 | 9.24a,0.24b |
-| hotfixes | - 긴급하게 반영 해야하는 bug fix
-- release branch는 다음 버전을 위한 것이라면, hotfix branch는 현재 버전을 위한것 | 긴급 패치를 위한 작업 |
+| hotfixes | - 긴급하게 반영 해야하는 bug fix - release branch는 다음 버전을 위한 것이라면, hotfix branch는 현재 버전을 위한것 | 긴급 패치를 위한 작업 |
 
 **GitHub Flow 기본 원칙**
 
