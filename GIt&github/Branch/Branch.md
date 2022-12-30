@@ -40,7 +40,8 @@
 	![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%202.png)
 
 2) merge -merge commit
-	![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%203.png)
+
+![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch/Untitled%203.png)
 
 **브랜치 병합 시나리오**
 
