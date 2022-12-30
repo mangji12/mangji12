@@ -35,13 +35,13 @@ Git은 파일을 modified,staged,committed로 관리
 
 **기본 명령어**
 
-1.  **`**git add <file>`
+1. `git add <file>`
 - working directory 상의 변경 내용을 staging area에 추가하기 위해 사용
     - untracked 상태의 파일을 staged로 변경
     - modified 상태의 파일을 staged로 변경
     
-1. `git commit -m ‘<커밋메시지>’` 
-- staged 상태의 파일들을 커밋을 통해 버전으로 기록
+2. `git commit -m ‘<커밋메시지>’` 
+- staged 상태의 파일들을 커밋을 통해 버전으로 기록 
 - SHA-1 해시를 사용하여 40자 길이의 체크섬을 생성하여 고유한 커밋을 표기
 - 커밋 메시지는 변경사항을 나타낼 수 있도록 명확하게 작성해야
 
@@ -71,34 +71,34 @@ git의 버전 관리
 
 ## 실습
 
-1. `git init` - git 저장소 만들기
+- `git init` - git 저장소 만들기
 
 ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%203.png)
 
 (master) 구문이 추가된 것을 확인할 수 있다. 맥은 확인 안됨
 
-1. `touch`로 파일 만들어 보기
+- `touch`로 파일 만들어 보기
     
     ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%204.png)
     
 
-1. `git add` 로 변경된 파일 모으기
+- `git add` 로 변경된 파일 모으기
 
 ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%205.png)
 
-1. `git status` 로 상태 확인
+- `git status` 로 상태 확인
 
 ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%206.png)
 
 No commits yet : 아직 커밋되지 않음.
 
-1. `git commit -m ‘버전 이름’`
+- `git commit -m ‘버전 이름’`
 
 ![Untitled](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84/Untitled%207.png)
 
 - 계정정보가 등록되지 않아 해당 문구가 노출된다.
 
-1. 사용자 정보 등록
+- 사용자 정보 등록
     - `git config —global [user.email](http://user.email) “이메일”`
     - `git config —global [user.name](http://user.name) “이름”`
     
