@@ -47,7 +47,7 @@
 
 - 브랜치 관련된 명령어는 간단하다.
     - 다양한 시나리오 속에서 어떤 상황인지 파악하고 자유롭게 활용할 수 있어야 한다.
-
+___
 **상황 1. fast-foward**
 
 - fast-foward는 feature 브랜치가 생성된 이후 master 브랜치에 변경상황이 없는 상황
@@ -92,7 +92,7 @@
    ```bash
 		git branch -d feature/home
    ```
-
+___
 **상황 2. merge commit**
 
 - 서로 다른 이력(commit)을 병합 하는 과정에서 **다른 파일이 수정** 되어 있는 상황
@@ -153,7 +153,7 @@
        ```bash
     		git branch -d feature/about
        ```
- 
+___
 **상황 3. merge commit 충돌**
 
 [git Conflict(충돌)는 왜 일어날까? 과정 알아보기](https://chaeyoung2.tistory.com/61)
