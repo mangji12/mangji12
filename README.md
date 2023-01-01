@@ -22,4 +22,4 @@
 [github 원격 저장소 사용하기](https://github.com/mangji12/mangji12/blob/master/GIt%26github/github%20%EC%9B%90%EA%B2%A9%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0/github%20%EC%9B%90%EA%B2%A9%20%EC%A0%80%EC%9E%A5%EC%86%8C%20%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0.md)
 
 [Branch](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Branch/Branch.md)
-  </details>
+ </details>
