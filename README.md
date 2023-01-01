@@ -3,15 +3,13 @@
 [노션](https://qwerty12.notion.site/Portfolio-Projects-79580d1660cb47e884e7661ecd77c3fa)
 
 # Study
-
 <details>
-<div markdown = "1">
-<summary>markdown</summary>     
-
-[마크다운 기반 문서 작성](https://github.com/mangji12/mangji12/blob/master/GIt%26github/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EA%B8%B0%EB%B0%98%20%EB%AC%B8%EC%84%9C%20%EC%9E%91%EC%84%B1/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EA%B8%B0%EB%B0%98%20%EB%AC%B8%EC%84%9C%20%EC%9E%91%EC%84%B1.md)
-
-</div>
+  <summary>Markdown</summary>
+  
+(https://github.com/mangji12/mangji12/blob/master/GIt%26github/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EA%B8%B0%EB%B0%98%20%EB%AC%B8%EC%84%9C%20%EC%9E%91%EC%84%B1/%EB%A7%88%ED%81%AC%EB%8B%A4%EC%9A%B4%20%EA%B8%B0%EB%B0%98%20%EB%AC%B8%EC%84%9C%20%EC%9E%91%EC%84%B1.md)
+  
 </details>
+
 **Git/github**  
 
 [Git기초,Git의 흐름](https://github.com/mangji12/mangji12/blob/master/GIt%26github/Git%EA%B8%B0%EC%B4%88%2C%20Git%EC%9D%98%20%ED%9D%90%EB%A6%84/Git%20%EA%B8%B0%EC%B4%88%2C%20GIt%EC%9D%98%20%ED%9D%90%EB%A6%84.md)
