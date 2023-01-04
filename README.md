@@ -30,5 +30,5 @@
 
 <details>
   <summary>Python</summary>
-[python]()
+
 </details>
