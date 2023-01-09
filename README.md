@@ -33,7 +33,6 @@
 
 </details>
 
-***
 <details>
   <summary>Algorithm</summary>
   [algorithm](https://github.com/mangji12/algorithm/blob/main/README.md)
