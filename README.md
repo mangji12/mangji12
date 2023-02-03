@@ -2,10 +2,7 @@
 [Blog](https://kukurubbing.tistory.com)
 
 # Study  
+  
+[lgorithm](https://github.com/mangji12/algorithm/blob/main/README.md)
+  
 
-<details>
-  <summary>Algorithm</summary>
-  
-  [algorithm](https://github.com/mangji12/algorithm/blob/main/README.md)
-  
-</details>
