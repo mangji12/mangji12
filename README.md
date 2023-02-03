@@ -3,6 +3,5 @@
 
 # TIL 
 
-[문제풀이](https://github.com/mangji12/algorithm/blob/main/README.md)
-[STUDY]
+2023 - 02 - 02 -> 노션에 자료구조 스택, 링크드 리스트 작성.
 
