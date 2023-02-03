@@ -3,6 +3,6 @@
 
 # Study  
   
-[lgorithm](https://github.com/mangji12/algorithm/blob/main/README.md)
+[Algorithm](https://github.com/mangji12/algorithm/blob/main/README.md)
   
 
