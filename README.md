@@ -10,7 +10,7 @@
 <summary>Projects</summary>
 <div markdown="1">
   
-* [안녕](www.naver.com)
+* [왓챠피디아 클론 프로젝트]([www.naver.com](https://github.com/mangji12/Red_glassess.git))
 
 </div>
 </details>
