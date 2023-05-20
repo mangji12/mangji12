@@ -6,7 +6,6 @@
 
 [Algorithm](https://github.com/mangji12/algorithm)
 
-[Projects](https://github.com/mangji12/Projects.git)
 <details>
 <summary>Projects</summary>
 <div markdown="1">
