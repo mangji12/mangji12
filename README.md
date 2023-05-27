@@ -10,7 +10,7 @@
 <summary>Projects</summary>
 <div markdown="1">
   
-* [왓챠피디아 클론 프로젝트](https://github.com/mangji12/Red_glassess.git)
+* [왓챠피디아 클론 팀 프로젝트](https://github.com/mangji12/Red_glassess.git)
 
 </div>
 </details>
