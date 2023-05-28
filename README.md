@@ -1,5 +1,5 @@
 # 💫 About Me
-인공지능공학을 전공, 정보보안 분야에 흥미가 있어 공부 중입니다.
+인공지능 공학을 전공, 보안에 흥미가 있어 보안을 이해하기 위해 개발을 공부합니다.
 
 # LINKS
 [Blog](https://kukurubbing.tistory.com)
