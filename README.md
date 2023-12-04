@@ -1,6 +1,7 @@
 
 ## 💫 About Me:
 💬 인공지능을 탑재한 서비스를 만들고 싶은 백엔드 직무를 희망하는 학생입니다.
+✍TIL : https://qwerty12.notion.site
 
 ## 💻 Tech Stack:
 #### Language
@@ -35,7 +36,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mangji12&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mangji12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## ✍TIL : https://qwerty12.notion.site
 
 ## 📚Projects
 ##### 👨🏻‍💻개발
