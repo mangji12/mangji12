@@ -11,11 +11,11 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mangji12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📚Projects
-### 👨🏻‍💻개발
+##### 👨🏻‍💻개발
   - [왓챠피디아 클론프로젝트](https://github.com/mangji12/Red_glassess.git)
-### 🤖인공지능
+##### 🤖인공지능
   - [음성모방 학과 개인 프로젝트](https://github.com/mangji12/FreshMan-s-Individual-1st-time-of-my-department-project.git)
-### 🚨보안 실습 프로젝트
+##### 🚨보안 실습 프로젝트
   - [보안 실습 기록 페이지]()
 
 ## 🏆 GitHub Trophies
