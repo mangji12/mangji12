@@ -31,7 +31,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 ## ✍TIL
-[노션TIL](qwerty12.notion.site)
+![노션TIL](qwerty12.notion.site)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=mangji12&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
