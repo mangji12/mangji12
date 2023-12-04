@@ -40,7 +40,7 @@
 
 ## 📚Projects
 ##### 👨🏻‍💻개발
-  - [왓챠피디아 클론프로젝트](https://github.com/mangji12/Red_glassess.git)
+  - [왓챠피디아 클론 팀 프로젝트](https://github.com/mangji12/Red_glassess.git)
 ##### 🤖인공지능
   - [학과 음성모방 개인 프로젝트](https://github.com/mangji12/FreshMan-s-Individual-1st-time-of-my-department-project.git)
 ##### 🚨보안 실습 프로젝트
