@@ -35,6 +35,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mangji12&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mangji12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## ✍TIL : https://qwerty12.notion.site
+
 ## 📚Projects
 ##### 👨🏻‍💻개발
   - [왓챠피디아 클론프로젝트](https://github.com/mangji12/Red_glassess.git)
