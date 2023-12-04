@@ -11,7 +11,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mangji12&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 📚Projects
-- [왓챠피디아 클론프로젝트](https://github.com/mangji12/Red_glassess.git)
+[왓챠피디아 클론프로젝트](https://github.com/mangji12/Red_glassess.git)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mangji12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
