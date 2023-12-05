@@ -5,6 +5,8 @@
 ✍TIL : https://qwerty12.notion.site
 
 ## 💻 Tech Stack:
+![선택한 기술 스택에 대한 고민](https://kukurubbing.tistory.com/25)
+
 #### Language
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
