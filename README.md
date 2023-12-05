@@ -46,7 +46,7 @@
 ##### 🤖인공지능
   - [학과 음성모방 개인 프로젝트](https://github.com/mangji12/FreshMan-s-Individual-1st-time-of-my-department-project.git)
 ##### 🚨보안 실습 프로젝트
-  - [보안 실습 기록 페이지](https://www.notion.so/qwerty12/43461fc1006d4935b24001ac633e23fd?v=fea47ae7caec464280397b87b47f25d8&pvs=4)
+  - [보안 실습 기록 페이지(보안상 공유 중지 상태)]()
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mangji12&theme=radical&no-frame=false&no-bg=true&margin-w=4)
