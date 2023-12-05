@@ -2,7 +2,7 @@
 ## 💫 About Me:
 💬 인공지능을 탑재한 서비스를 만들고 싶은 백엔드 직무를 희망하는 인공지능 전공 학생입니다.
 
-✍TIL : https://qwerty12.notion.site
+✍Today I Learned : https://qwerty12.notion.site
 
 ## 💻 Tech Stack:
 [선택한 기술 스택에 대한 고민](https://kukurubbing.tistory.com/25)
