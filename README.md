@@ -3,6 +3,7 @@
 💬 인공지능을 탑재한 서비스를 만들고 싶은 백엔드 직무를 희망하는 인공지능 전공 학생입니다.
 
 ✍Today I Learned : https://qwerty12.notion.site
+
 📖Blog : https://kukurubbing.tistory.com/
 
 ## 💻 Tech Stack:
