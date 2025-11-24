@@ -4,7 +4,7 @@
 
 ✍Today I Learned : https://qwerty12.notion.site
 
-📖Blog : https://kukurubbing.tistory.com/
+📖Blog : https://kukurubbing.tistory.com
 
 ## 💻 Tech Stack:
 [선택한 기술 스택에 대한 고민](https://kukurubbing.tistory.com/25)
