@@ -1,7 +1,6 @@
 
 ## 💫 About Me:
-💬 인공지능 백엔드 직무를 희망하는 대학생 오창인입니다.
-
+💬 안녕하세요! 생각한 것을 만드는 오창인입니다! 
 ✍Today I Learned : https://qwerty12.notion.site
 
 <!--📖Blog : https://kukurubbing.tistory.com/-->
