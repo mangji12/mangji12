@@ -4,8 +4,8 @@
 
 <a href="https://www.linkedin.com/in/chang-in-oh-69192938a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:dhckddls12@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.instagram.com/mangji12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a> **/**
 <a href="https://kukurubbing.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EB531F?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory Blog"/></a>
-<a href="https://www.instagram.com/mangji12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.notion.so/qwerty12" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
 
 ### 💾 해왔던 경험들
