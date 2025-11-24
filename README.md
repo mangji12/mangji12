@@ -2,6 +2,13 @@
 
 저는 주로 **Python (Django, FastAPI)** 기반의 백엔드 개발자로 활동하고 있으며, **AI 전공 지식**을 활용해 데이터 파이프라인과 자동화 시스템을 구축하는 데 집중하고 있습니다.
 
+### 📫 Contact
+
+<a href="https://www.linkedin.com/in/chang-in-oh-69192938a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dhckddls12@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://kukurubbing.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EB531F?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory Blog"/></a>
+<a href="https://www.instagram.com/mangji12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
+
 ### 저의 강점
 
 - **서비스 배포 및 자동화 경험:** `FastAPI`와 `React`를 활용해 실시간 채팅 서비스를 구현하고, **AWS(EC2)** 배포 및 **Jenkins**를 이용한 CI/CD 파이프라인을 혼자 힘으로 구축해본 경험이 있습니다. 코드가 실제 운영 환경에서 어떻게 돌아가는지 이해하고 설계합니다.
@@ -40,10 +47,3 @@
 - AWS + Jenkins를 활용한 배포 자동화(CI/CD) 적용
 
 <br/>
-
-### 📫 Contact
-
-<a href="https://www.linkedin.com/in/chang-in-oh-69192938a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dhckddls12@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://kukurubbing.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EB531F?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory Blog"/></a>
-<a href="https://www.instagram.com/mangji12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
