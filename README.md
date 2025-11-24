@@ -44,10 +44,10 @@
 
 ## 📚Projects
 ##### 👨🏻‍💻개발
-  - [왓챠피디아 클론 팀 프로젝트](https://github.com/mangji12/Red_glassess.git)
-  <!-- - [장고 + 리액트 인스타그램 클론 프로젝트](https://github.com/mangji12/Django-React-Instagram.git) -->
+  - [왓챠피디아 클론 프로젝트(팀)](https://github.com/mangji12/Red_glassess.git)
+  <!-- [장고 + 리액트 인스타그램 클론 프로젝트](https://github.com/mangji12/Django-React-Instagram.git) -->
 ##### 🤖인공지능
-  - [학과 음성모방 프로젝트](개인)(https://github.com/mangji12/FreshMan-s-Individual-1st-time-of-my-department-project.git)
+  - [학과 음성모방 프로젝트(개인)](https://github.com/mangji12/FreshMan-s-Individual-1st-time-of-my-department-project.git)
 ##### 🚨보안 실습 프로젝트
   - [보안 프로젝트](https://qwerty12.notion.site/43461fc1006d4935b24001ac633e23fd?v=fea47ae7caec464280397b87b47f25d8&pvs=4)
 
