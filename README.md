@@ -35,7 +35,7 @@
 
 ### 🚀 프로젝트 (Projects)
 
-**1. KCA Report Platform (진행 중)**
+**1. KCA Report Platform (비공개 코드)**
 > 한국소비자원 보고서 기반 합리적 소비 플랫폼
 - Django와 커스텀 Admin을 활용한 데이터 관리 시스템 구축
 - 공공데이터 파싱 및 DB 모델링 설계
