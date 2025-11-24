@@ -8,7 +8,7 @@
 <a href="https://www.instagram.com/mangji12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
 <a href="https://www.notion.so/qwerty12" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
 
-### 💪저의 강점
+### �저의 장점들
 
 - **서비스 배포 및 자동화 경험:** `FastAPI`와 `React`를 활용해 실시간 채팅 서비스를 구현하고, **AWS(EC2)** 배포 및 **Jenkins**를 이용한 CI/CD 파이프라인을 혼자 힘으로 구축해본 경험이 있습니다. 코드가 실제 운영 환경에서 어떻게 돌아가는지 이해하고 설계합니다.
 
