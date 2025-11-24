@@ -3,7 +3,6 @@
     <div style="font-weight: 700; font-size: 15px; text-align: center; color: #282d33;"> "AI와 보안을 고민하는 Python 백엔드 개발자입니다. FastAPI/Django로 견고한 서비스를 구축하며, AWS/Jenkins를 활용한 배포 자동화를 경험했습니다." </div> 
     </div>
     <div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="margin: 0 auto; text-align: center;" align= "center"> </div>
     </div>
     <div align= "center">
