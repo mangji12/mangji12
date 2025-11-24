@@ -1,6 +1,6 @@
 
 ## 💫 About Me:
-💬 안녕하세요! 상상을 현실로 만드는 오창인입니다
+💬 안녕하세요! 상상을 현실로 만드는 개발자 오창인입니다
 
 ✍Today I Learned : https://qwerty12.notion.site
 
