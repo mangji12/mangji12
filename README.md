@@ -6,7 +6,9 @@
 
 📖Blog : https://kukurubbing.tistory.com
 
-## 💻 Tech Stack:
+## Contact : dhckddls12@naver.com
+
+## 💻 이런 것을 다룰 수 있어요:
 [선택한 기술 스택에 대한 고민](https://kukurubbing.tistory.com/25)
 
 #### Language
