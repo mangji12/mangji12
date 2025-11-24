@@ -41,13 +41,13 @@
 - Django와 커스텀 Admin을 활용한 데이터 관리 시스템 구축
 - 공공데이터 파싱 및 DB 모델링 설계
 
-**2. Real-time Random Chat**
+**2. Real-time Random Chat(진행중)**
 > 실시간 랜덤 채팅 서비스
 - FastAPI(WebSocket)를 이용한 양방향 통신 서버 구현
 - AWS + Jenkins를 활용한 배포 자동화(CI/CD) 적용
 - React로 간단한 채팅화면 구현
 
-**3. C로 만드는 Pokemon 게임**
+**3. C로 만드는 Pokemon 게임(진행중)**
 > CLI에서 실행하는 포켓몬게임
 - 구조체를 이용하여 포켓몬의 프로필 형식 지정
 - 링크드 리스트를 이용한 수집한 포켓몬 데이터 저장
