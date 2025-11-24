@@ -30,7 +30,7 @@
 - **Backend:** FastAPI, Django, Django REST Framework
 - **DevOps:** AWS (EC2), Jenkins, Docker, Nginx
 - **Database:** PostgreSQL, SQLite
-- **Collaboration:** Git, Slack
+- **Collaboration:** Git
 
 <br/>
 
@@ -51,5 +51,3 @@
 > CLI에서 실행하는 포켓몬게임
 - 구조체를 이용하여 포켓몬의 프로필 형식 지정
 - 링크드 리스트를 이용하여 수집한 포켓몬 저장
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangji12)
