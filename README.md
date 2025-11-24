@@ -45,6 +45,7 @@
 > 실시간 랜덤 채팅 서비스
 - FastAPI(WebSocket)를 이용한 양방향 통신 서버 구현
 - AWS + Jenkins를 활용한 배포 자동화(CI/CD) 적용
+- React로 간단한 채팅화면 구현
 
 **3. C로 만드는 Pokemon 게임**
 > CLI에서 실행하는 포켓몬게임
