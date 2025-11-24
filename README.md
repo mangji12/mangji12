@@ -46,6 +46,11 @@
 - FastAPI(WebSocket)를 이용한 양방향 통신 서버 구현
 - AWS + Jenkins를 활용한 배포 자동화(CI/CD) 적용
 
+**3. C로 만드는 Pokemon 게임**
+> CLI에서 실행하는 포켓몬게임
+- 구조체를 이용하여 포켓몬의 프로필 형식 지정
+- 링크드 리스트를 이용하여 수집한 포켓몬 저장
+
 <br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangji12)
