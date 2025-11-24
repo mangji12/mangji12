@@ -7,12 +7,12 @@
     <div style="margin: ; text-align: left;" "text-align: left;"> </div>
     </div>
     <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2> <br> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
     <div style="text-align: left;"> <a href=https://kukurubbing.tistory.com> <img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=Tistory&logoColor=white&link=https://kukurubbing.tistory.com"> </a>
          <a href=https://qwerty12.notion.site> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://qwerty12.notion.site"> </a>
          <a href=mailto:dhckddls12@gmail.com> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=mailto:dhckddls12@gmail.com"> </a>
          <a href=https://instagram.com/chvn9in> <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/chvn9in"> </a>
-          </div>  <br> 
+    </div>  <br> 
     <div style="text-align: left;">  </div> 
     </div>
     <div style="text-align: left;"> 
