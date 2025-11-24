@@ -2,12 +2,12 @@
 
 저는 주로 **Python (Django, FastAPI)** 기반의 백엔드 개발자로 활동하고 있으며, **AI 전공 지식**을 활용해 데이터 파이프라인과 자동화 시스템을 구축하는 데 집중하고 있습니다.
 
-<a href="https://www.linkedin.com/in/chang-in-oh-69192938a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:dhckddls12@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.instagram.com/mangji12/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-
 <a href="https://kukurubbing.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-EB531F?style=for-the-badge&logo=Tistory&logoColor=white" alt="Tistory Blog"/></a>
 <a href="https://www.notion.so/qwerty12" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion"/></a>
+
+<a href="https://www.linkedin.com/in/chang-in-oh-69192938a/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:dhckddls12@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.threads.net/@chvn9in" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
 
 ### 💾 해왔던 경험들
 
