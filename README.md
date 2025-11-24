@@ -47,3 +47,5 @@
 - AWS + Jenkins를 활용한 배포 자동화(CI/CD) 적용
 
 <br/>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mangji12)
