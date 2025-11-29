@@ -15,7 +15,7 @@
 **1. End-to-End Service Architecture**
 - `FastAPI`와 `React`를 연동한 서비스 개발부터 **AWS(EC2)** 인프라 구축, **Jenkins** 기반의 **CI/CD 파이프라인**까지 서비스의 전 과정을 주도적으로 설계하고 운영해본 경험이 있습니다. 코드가 로컬을 떠나 실제 운영 환경에서 어떻게 동작하는지 이해합니다.
 
-**2. 2. Security-Aware Development (보안을 고려하는 개발)**
+**2. Security-Aware Development (보안을 고려하는 개발)**
 - Attack & Defense: 모의해킹 학습을 통해 SQL Injection, XSS 등 주요 웹 취약점의 공격 원리를 이해하고 있습니다.
 - Safe Implementation: 공격자의 관점을 알기에, 기능만 동작하는 코드가 아니라 **'안전한 데이터 처리'**를 고민하며 API를 설계하려고 노력합니다
 
