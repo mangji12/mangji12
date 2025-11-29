@@ -1,7 +1,7 @@
 # 💬 안정적인 서비스와 데이터 가치를 설계하는 백엔드 엔지니어, 오창인입니다.
 
-**Python (Django, FastAPI)** 생태계에 대한 깊은 이해를 바탕으로, 단순한 기능 구현을 넘어 **안정적인 배포 환경(DevOps)**과 **보안(Security)**까지 고려하는 개발을 지향합니다.
-데이터 파이프라인 구축과 비효율의 자동화를 통해 **비즈니스 문제를 기술로 해결**하는 데 집중하고 있습니다.
+**Python (Django, FastAPI)** 생태계에 대한 깊은 이해를 바탕으로, 단순한 기능 구현을 넘어 **안정적인 배포 환경(DevOps)** 과 **보안(Security)** 까지 고려하는 개발을 지향합니다.
+데이터 파이프라인 구축과 비효율의 자동화를 통해 **비즈니스 문제를 기술로 해결** 하는 데 집중하고 있습니다.
 
 <a href="https://kukurubbing.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tech_Blog-EB531F?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <a href="https://qwerty12.notion.site" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
