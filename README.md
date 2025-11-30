@@ -1,8 +1,11 @@
 # 👋 안녕하세요, 견고한 백엔드를 설계하는 개발자 오창인입니다.
 
-**Python (Django, FastAPI)** 생태계를 주력으로 다루고, 단순히 기능이 동작하는 것을 넘어 서비스가 실제 운영 환경에서 안전하고 효율적으로 돌아가는지 고민합니다.
+**Python (Django, FastAPI)** 생태계를 주력으로 다루고
+단순히 기능이 동작하는 것을 넘어 서비스가 실제 운영 환경에서 안전하고 효율적으로 돌아가는지 고민합니다.
 
-AI 전공을 통해 데이터의 흐름을 익혔고, 시스템 해킹(Pwnable) 학습을 통해 메모리와 프로세스의 작동 원리를 깊이 이해했습니다. 이러한 로우 레벨(Low-level) 지식을 바탕으로, **보안 취약점을 사전에 차단하고 성능을 고려한 코드**를 작성하는 것을 지향합니다.
+AI 전공을 통해 데이터의 흐름을 익혔습니다. 그리고 시스템 해킹(Pwnable) 학습을 통해 메모리와 프로세스의 작동 원리를 깊이 이해하였습니다. 
+
+이러한 로우 레벨(Low-level) 지식을 바탕으로, **보안 취약점을 사전에 차단하고 성능을 고려한 코드**를 작성하는 것을 지향합니다.
 
 <a href="https://kukurubbing.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EB531F?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
 <a href="https://qwerty12.notion.site" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
