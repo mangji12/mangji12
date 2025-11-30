@@ -15,8 +15,6 @@ AI 전공을 통해 데이터와 모델의 흐름을 이해하고,
 <a href="mailto:dhckddls12@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://www.threads.net/@chvn9in" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
 
-<br/>
-
 ### 📌 Focus & Philosophy
 
 **1. 배포 및 운영 자동화 (DevOps)**
@@ -32,8 +30,6 @@ AI 전공을 통해 데이터와 모델의 흐름을 이해하고,
 - 비정형 공공데이터(한국소비자원 리포트)를 수집·가공하여 사용자에게 유의미한 정보로 변환하는 서비스를 개발 중입니다.
 - 정형 데이터와 비정형 데이터가 공존하는 문제를 해결하기 위해 **Hybrid Schema (RDBMS + JSON)** 설계를 도입하는 등 기술적 문제 해결을 즐깁니다.
 
-<br/>
-
 ### 🛠 Tech Stack
 
 **Core Competencies (주력 기술)**
@@ -45,8 +41,6 @@ AI 전공을 통해 데이터와 모델의 흐름을 이해하고,
 - **Cloud:** AWS (EC2 배포 운영)
 - **CI/CD:** Jenkins (파이프라인 구축), Docker
 - **Server:** Nginx
-
-<br/>
 
 ### 🚀 Featured Projects
 
