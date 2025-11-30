@@ -58,7 +58,7 @@ AI 전공을 통해 데이터의 흐름을 익혔고, 시스템 해킹(Pwnable) 
 - **Key Tech:** `FastAPI` `WebSocket` `Jenkins` `AWS EC2`
 - **Description:** WebSocket을 활용해 저지연 양방향 통신을 구현했으며, Jenkins 파이프라인을 구축하여 **무중단 배포** 환경을 마련했습니다.
 
-**3. C언어 포켓몬 도감 (Pokemon Collector)**
+**3. C언어 포켓몬 게임 **
 > *CS 기초 함양을 위한 자료구조 구현*
 - **Role:** C 프로그래밍, 자료구조 설계
 - **Key Tech:** `C` `Pointer` `Linked List` `Memory Management`
