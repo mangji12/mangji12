@@ -48,7 +48,7 @@ AI 전공을 통해 데이터와 모델의 흐름을 이해하고,
 - **1. 한국소비자원 리포트 플랫폼 (KCA Report Platform)**
 > *공공데이터 기반 합리적 소비 분석 플랫폼*
 
-<a href="wise-pick.co.kr">합리적인 소비플랫폼, 와이즈핏</a>
+<a href="https://www.wise-pick.co.kr">합리적인 소비플랫폼, 와이즈핏</a>
 
 - **Role:** 1인 개발 (기획, 백엔드, DB 설계, 배포)
 - **Key Tech:** `Django` `PostgreSQL` `JSONField` `Custom Admin`
