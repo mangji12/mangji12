@@ -50,8 +50,8 @@ AI 전공을 통해 데이터와 모델의 흐름을 이해하고,
 
 <a href="https://www.wise-pick.co.kr">합리적인 소비플랫폼, 와이즈핏</a>
 
-- **Role:** 1인 개발 (기획, 백엔드, DB 설계, 배포)
-- **Key Tech:** `Django` `PostgreSQL` `JSONField` `Custom Admin`
+- **Role:** 1인 개발 (기획, 백엔드, DB 설계, 배포, 프론트엔드 바이브코딩)
+- **Key Tech:** `Django` `PostgreSQL` `CI/CD` `docker compose`
 - **Description:** 정형/비정형 데이터가 섞인 리포트 특성을 고려해 **JSONField를 활용한 유연한 스키마**를 설계하고, Django Admin을 커스터마이징하여 데이터 관리 효율을 높였습니다.
 
 **2. 실시간 랜덤 채팅 (Real-time Random Chat)**
