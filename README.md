@@ -47,7 +47,7 @@ AI 전공을 통해 데이터와 모델의 흐름을 이해하고,
 
 - **1. 한국소비자원 리포트 플랫폼 (KCA Report Platform)**
 > *공공데이터 기반 합리적 소비 분석 플랫폼*
-<a href="wise-pick.co.kr">
+<a href="wise-pick.co.kr"/>
 - **Role:** 1인 개발 (기획, 백엔드, DB 설계, 배포)
 - **Key Tech:** `Django` `PostgreSQL` `JSONField` `Custom Admin`
 - **Description:** 정형/비정형 데이터가 섞인 리포트 특성을 고려해 **JSONField를 활용한 유연한 스키마**를 설계하고, Django Admin을 커스터마이징하여 데이터 관리 효율을 높였습니다.
