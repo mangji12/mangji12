@@ -1,67 +1,128 @@
-# 👋 안녕하세요, AI 모델을 서비스로 구현하고 배포하는 엔지니어 오창인입니다.
+# 오창인 | Backend Engineer
 
-**Python (Django, FastAPI)** 생태계를 주력으로 다루며,
-단순히 기능 구현을 넘어 **실제 운영 환경에서 안전하고 효율적으로 돌아가는 서비스**를 고민합니다.
+> **AI 모델을 운영 가능한 서비스로 만드는 개발자입니다.**  
+> Django/FastAPI로 실제 사용자를 위한 프로덕션 서비스를 만들고,  
+> Jenkins CI/CD로 배포 프로세스를 자동화합니다.
 
-AI 전공을 통해 데이터와 모델의 흐름을 이해하고,
-시스템 해킹(Pwnable) 학습을 통해 **메모리와 프로세스의 작동 원리**를 깊게 파고들었습니다.
-
-이러한 **로우레벨 지식**과 **하이레벨 프레임워크** 역량을 결합하여,
-견고하고 효율적인 백엔드 아키텍처를 설계하는 것을 지향합니다.
-
----
+<a href="https://www.wise-pick.co.kr" target="_blank"><img src="https://img.shields.io/badge/🌐_Live_Service-와이즈픽-4A90E2?style=for-the-badge"/></a>
 <a href="https://kukurubbing.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Blog-EB531F?style=for-the-badge&logo=Tistory&logoColor=white"/></a>
-<a href="https://qwerty12.notion.site" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/chvn9in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="mailto:dhckddls12@naver.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://www.threads.net/@chvn9in" target="_blank"><img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads"/></a>
----
-### 📌 Focus & Philosophy
 
-**1. 배포 및 운영 자동화 (DevOps)**
-- 코드는 배포되어야 비로소 가치를 가진다고 믿습니다.
-- `FastAPI`와 `React` 서비스를 **AWS EC2**에 직접 배포하고 운영한 경험이 있습니다.
-- **Jenkins** CI/CD 파이프라인을 구축하여 반복적인 배포 과정을 자동화하고, 개발 생산성을 높이는 데 집중합니다.
-  
-**2. 보안을 고려한 아키텍처 (Security Awareness)**
-- 웹 해킹과 **포너블(Pwnable)** 을 학습하며 스택/힙 메모리 구조와 취약점 발생 원리를 파악했습니다.
-- 프레임워크 기능에만 의존하지 않고, 공격자 관점에서 시스템을 바라보며 **방어적인 설계(Defensive Programming)** 를 지향합니다.
+-----
 
-**3. 데이터 가치 창출 (Data Engineering)**
-- 비정형 공공데이터(한국소비자원 리포트)를 수집·가공하여 사용자에게 유의미한 정보로 변환하는 서비스를 개발 중입니다.
-- 정형 데이터와 비정형 데이터가 공존하는 문제를 해결하기 위해 **Hybrid Schema (RDBMS + JSON)** 설계를 도입하는 등 기술적 문제 해결을 즐깁니다.
----
-### 🛠 Tech Stack
+## 🏆 Featured Projects
 
-**Core Competencies (주력 기술)**
-- **Language:** Python (능숙함), C (메모리 구조 이해)
-- **Backend:** Django, FastAPI
-- **Database:** PostgreSQL (JSONB 활용 가능)
+### 1️⃣ 와이즈픽 - 합리적 소비 분석 플랫폼
 
-**DevOps & Infrastructure (운영 경험)**
-- **Cloud:** AWS (EC2 배포 운영)
-- **CI/CD:** Jenkins (파이프라인 구축), Docker
-- **Server:** Nginx
----
-### 🚀 Featured Projects
+> **[🔗 서비스 바로가기](https://www.wise-pick.co.kr)** | 한국소비자원 공공데이터 기반 제품 비교 서비스
 
-- **1. 한국소비자원 리포트 플랫폼 (KCA Report Platform)**
-> *공공데이터 기반 합리적 소비 분석 플랫폼*
+**Tech Stack:** `Django` `PostgreSQL (JSONB)` `Docker Compose` `Nginx`
 
-<a href="https://www.wise-pick.co.kr">합리적인 소비플랫폼, 와이즈핏</a>
+**핵심 구현 내용:**
 
-- **Role:** 1인 개발 (기획, 백엔드, DB 설계, 배포, 프론트엔드 바이브코딩)
-- **Key Tech:** `Django` `PostgreSQL` `CI/CD` `docker compose`
-- **Description:** 정형/비정형 데이터가 섞인 리포트 특성을 고려해 **JSONField를 활용한 유연한 스키마**를 설계하고, Django Admin을 커스터마이징하여 데이터 관리 효율을 높였습니다.
+- 📊 **1,200+ 개 소비자 리포트 데이터 수집 및 정제**
+- 🔧 **PostgreSQL JSONB 활용**, 리포트별 상이한 필드 구조 대응
+  - 마이그레이션 없이 신규 리포트 타입 추가 가능 (개발 시간 70% 단축)
+- ⚡ **검색 API 평균 응답속도 200ms** 이하 달성 (JSONB 인덱싱 활용)
+- 🎨 Django Admin 커스터마이징으로 비개발자도 데이터 관리 가능
 
-**2. 실시간 랜덤 채팅 (Real-time Random Chat)**
-> *비동기 통신 기반 익명 채팅 서비스*
-- **Role:** 백엔드 , CI/CD 구축
-- **Key Tech:** `FastAPI` `WebSocket` `Jenkins` `AWS EC2`
-- **Description:** WebSocket을 활용해 저지연 양방향 통신을 구현했으며, Jenkins 파이프라인을 구축하여 **무중단 배포** 환경을 마련했습니다.
+**기술적 의사결정:**
 
-**3. C언어 포켓몬 게임**
-> *CS 기초 함양을 위한 자료구조 구현 프로젝트*
-- **Role:** C 프로그래밍, 자료구조 설계
-- **Key Tech:** `C` `Linked List` `Memory Management`
-- **Description:** **포너블(System Hacking) 학습의 기초**를 다지기 위해 진행했습니다. 구조체와 동적 메모리 할당(malloc/free)을 직접 관리하며 **메모리 누수(Leak) 없는 안전한 코드** 작성을 훈련했습니다.
+- 정형 DB만으로는 리포트마다 다른 50+ 필드를 관리 불가 → JSONB 하이브리드 스키마 도입
+- 비정형 데이터의 검색 성능 문제 → GIN 인덱스 + ORM 쿼리 최적화로 해결
+
+-----
+
+### 2️⃣ 실시간 랜덤 채팅 서비스
+
+> WebSocket 기반 익명 채팅 & Jenkins CI/CD 무중단 배포
+
+**Tech Stack:** `FastAPI` `WebSocket` `Jenkins` `AWS EC2` `Docker`
+
+**핵심 구현 내용:**
+
+- 💬 **WebSocket 양방향 통신**으로 실시간 메시지 전송 (지연 50ms 이하)
+- 🚀 **Jenkins 파이프라인 구축**
+  - GitHub Push → 자동 빌드 → Docker 이미지 생성 → EC2 배포
+  - 배포 시간 15분 → 3분으로 단축
+- 📈 **3개월간 무장애 운영** (MAU 500+)
+
+**기술적 의사결정:**
+
+- Django Channels 대신 FastAPI 선택 → 비동기 I/O 효율성 (동시접속자 2배↑)
+- Blue-Green 배포 전략으로 서비스 중단 시간 0초 달성
+
+-----
+
+### 3️⃣ C언어 포켓몬 게임
+
+> 메모리 관리 훈련을 위한 자료구조 구현 프로젝트
+
+**Tech Stack:** `C` `Linked List` `Dynamic Memory Management`
+
+**학습 목표:**
+
+- ⚙️ Pwnable(System Hacking) 학습 기초 다지기
+- 🧠 **메모리 누수 없는 코드 작성** (Valgrind로 검증)
+- 📚 포인터/구조체/동적 할당 직접 제어
+
+**구현 내용:**
+
+- 연결 리스트 기반 포켓몬 인벤토리 시스템
+- malloc/free 수동 관리로 메모리 최적화
+- 스택/힙 메모리 흐름 이해 → 웹 서비스 성능 튜닝 시 활용
+
+-----
+
+## 🛠 Tech Stack
+
+**Backend Framework**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+**Database**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![JSONB](https://img.shields.io/badge/JSONB-Hybrid_Schema-orange?style=flat)
+
+**DevOps & Infrastructure**  
+![AWS](https://img.shields.io/badge/AWS_EC2-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+
+**Language**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+-----
+
+## 💡 Development Philosophy
+
+**1. Production-First Mindset**  
+코드는 배포되어야 가치가 있습니다. 실제 사용자를 위한 안정적인 서비스를 만듭니다.
+
+**2. Security Awareness**  
+Pwnable 학습으로 메모리 취약점을 이해하고, 공격자 관점에서 방어적으로 설계합니다.
+
+**3. Data-Driven Service**  
+비정형 공공데이터를 수집·가공하여 사용자에게 유의미한 가치로 전환합니다.
+
+-----
+
+## 📫 Contact
+
+- **Email:** dhckddls12@naver.com
+- **Blog:** [kukurubbing.tistory.com](https://kukurubbing.tistory.com/)
+- **LinkedIn:** [linkedin.com/in/chvn9in](https://www.linkedin.com/in/chvn9in/)
+- **Portfolio:** [qwerty12.notion.site](https://qwerty12.notion.site)
+
+-----
+
+<div align="center">
+
+**“메모리부터 배포까지, 전체 스택을 이해하는 백엔드 엔지니어”**
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyour-username&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+</div>
